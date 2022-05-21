@@ -12,6 +12,14 @@ dependencies are already installed, so the user just needs to run npm install on
 
 This application is used through the command line (CLI), just run node index.js.
 
+## Technologies
+
+Node
+Console Table
+Inquirer
+MySQL2
+Javascript
+
 ## Video
 
 This is how it is supposed to work, mine is still a work in progress.
